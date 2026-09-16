@@ -1,0 +1,1 @@
+print("practice02-mc643920")
