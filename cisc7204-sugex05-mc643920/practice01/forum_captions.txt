@@ -1,0 +1,47 @@
+Practice 01 — forum screenshot captions
+Use the caption with the matching Moodle thread and PNG screenshot.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.1
+Caption: Lists all distinct wind speeds and reports the number of unique values.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.2
+Caption: Filters records with the exact Clear condition and reports their count.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.3
+Caption: Filters records with wind speed equal to 4 km/h and reports their count.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.4
+Caption: Counts missing values in every weather data column.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.5
+Caption: Confirms that Weather has been renamed to Weather Condition.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.6
+Caption: Calculates the mean visibility in kilometres.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.7
+Caption: Calculates the sample standard deviation of pressure in kPa.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.8
+Caption: Calculates the sample variance of relative humidity.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.9
+Caption: Finds records whose weather condition contains Snow and reports the count.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.10
+Caption: Finds records with wind speed above 24 km/h and visibility of 25 km.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.11
+Caption: Shows numeric column means grouped by weather condition.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.12
+Caption: Shows the minimum and maximum values for each weather condition.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.13
+Caption: Filters records whose weather condition is exactly Fog.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.14
+Caption: Selects records that are Clear or have visibility above 40 km.
+
+Thread: My Work in Practice 01 of SugEx05 Question 1.15
+Caption: Applies the requested combined Clear, humidity, and visibility conditions.

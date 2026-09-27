@@ -1,0 +1,17 @@
+Practice 02 — forum screenshot captions
+Use the caption with the matching Moodle thread and PNG screenshot.
+
+Thread: My Work in Practice 02 of SugEx05 Question 2.1
+Caption: Checks missing values, fills numeric gaps with column means, and checks again.
+
+Thread: My Work in Practice 02 of SugEx05 Question 2.2
+Caption: Counts the number of records for each car make.
+
+Thread: My Work in Practice 02 of SugEx05 Question 2.3
+Caption: Selects cars whose origin is Asia or Europe.
+
+Thread: My Work in Practice 02 of SugEx05 Question 2.4
+Caption: Removes cars weighing over 4000 and reports the remaining maximum weight.
+
+Thread: My Work in Practice 02 of SugEx05 Question 2.5
+Caption: Increases city fuel economy by 3 MPG for each remaining car.

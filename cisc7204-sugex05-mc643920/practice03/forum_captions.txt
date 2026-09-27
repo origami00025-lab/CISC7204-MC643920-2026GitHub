@@ -1,0 +1,17 @@
+Practice 03 — forum screenshot captions
+Use the caption with the matching Moodle thread and PNG screenshot.
+
+Thread: My Work in Practice 03 of SugEx05 Question 3.1
+Caption: Identifies and removes columns that contain only missing values.
+
+Thread: My Work in Practice 03 of SugEx05 Question 3.2
+Caption: Compares the number of speeding stops for men and women.
+
+Thread: My Work in Practice 03 of SugEx05 Question 3.3
+Caption: Compares search rates by gender and notes that the association is not causal evidence.
+
+Thread: My Work in Practice 03 of SugEx05 Question 3.4
+Caption: Maps stop-duration categories to approximate minutes and reports the estimated mean.
+
+Thread: My Work in Practice 03 of SugEx05 Question 3.5
+Caption: Summarizes driver-age distributions separately for each violation.

@@ -1,0 +1,23 @@
+Practice 04 — forum screenshot captions
+Use the caption with the matching Moodle thread and PNG screenshot.
+
+Thread: My Work in Practice 04 of SugEx05 Question 4.1
+Caption: Sums confirmed cases, deaths, and recoveries for each region.
+
+Thread: My Work in Practice 04 of SugEx05 Question 4.2
+Caption: Removes records with fewer than 10 confirmed cases and reports the remaining rows.
+
+Thread: My Work in Practice 04 of SugEx05 Question 4.3
+Caption: Finds the region or regions with the highest confirmed-case total.
+
+Thread: My Work in Practice 04 of SugEx05 Question 4.4
+Caption: Finds the region or regions with the lowest death total.
+
+Thread: My Work in Practice 04 of SugEx05 Question 4.5
+Caption: Sums India’s confirmed cases, deaths, and recoveries on 29 April 2020.
+
+Thread: My Work in Practice 04 of SugEx05 Question 4.6A
+Caption: Displays the records sorted by confirmed cases in ascending order.
+
+Thread: My Work in Practice 04 of SugEx05 Question 4.6B
+Caption: Displays the records sorted by recovered cases in descending order.

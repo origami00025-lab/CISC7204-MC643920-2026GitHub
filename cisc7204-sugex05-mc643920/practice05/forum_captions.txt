@@ -1,0 +1,26 @@
+Practice 05 — forum screenshot captions
+Use the caption with the matching Moodle thread and PNG screenshot.
+
+Thread: My Work in Practice 05 of SugEx05 Question 5.1
+Caption: Converts the date column to datetime and displays sample records.
+
+Thread: My Work in Practice 05 of SugEx05 Question 5.2A
+Caption: Extracts the year from each date into a new column.
+
+Thread: My Work in Practice 05 of SugEx05 Question 5.2B
+Caption: Extracts the month and inserts it as the second column.
+
+Thread: My Work in Practice 05 of SugEx05 Question 5.3
+Caption: Removes the temporary year and month columns.
+
+Thread: My Work in Practice 05 of SugEx05 Question 5.4
+Caption: Filters records with zero crimes and reports how many there are.
+
+Thread: My Work in Practice 05 of SugEx05 Question 5.5
+Caption: Shows yearly minimum and maximum average prices for England.
+
+Thread: My Work in Practice 05 of SugEx05 Question 5.6
+Caption: Shows the minimum and maximum recorded crimes for each area.
+
+Thread: My Work in Practice 05 of SugEx05 Question 5.7
+Caption: Counts, by area, records with average prices below 100000.
