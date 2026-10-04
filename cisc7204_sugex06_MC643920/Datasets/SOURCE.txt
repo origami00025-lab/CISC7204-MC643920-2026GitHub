@@ -1,0 +1,3 @@
+Notebook inputs copied for offline reproducibility.
+Course example CSVs and images.zip: https://www.cs.sjsu.edu/~mak/archive/DATA200/index.html
+Seaborn tips sample (local CSV copy): https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
