@@ -1,0 +1,32 @@
+Original course-example datasets from the publisher companion repository.
+iq_scores.csv
+https://raw.githubusercontent.com/PacktWorkshops/The-Data-Visualization-Workshop/master/Datasets/iq_scores.csv
+SHA256: cfdc8eb44da903fd1de1a2ec3af4959e4459a13b5516ee0632a00a55e2219b81
+
+northern_surface_temperature.csv
+https://raw.githubusercontent.com/PacktWorkshops/The-Data-Visualization-Workshop/master/Datasets/northern_surface_temperature.csv
+SHA256: 694b3b10f948ae9b4af22369796a450a198fbaa37f3402b17c037a033fa267f8
+
+flight_details.csv
+https://raw.githubusercontent.com/PacktWorkshops/The-Data-Visualization-Workshop/master/Datasets/flight_details.csv
+SHA256: 38bc739ea48e2022a014b397404148e726bc00e6460b8c47423039298c1f4f7a
+
+movie_scores.csv
+https://raw.githubusercontent.com/PacktWorkshops/The-Data-Visualization-Workshop/master/Datasets/movie_scores.csv
+SHA256: 02364625bf8d0a4e5d17b1ad1ff23bd5dbebf5ab4b038164ce11e8dc2dbdfd73
+
+YouTube.csv
+https://raw.githubusercontent.com/PacktWorkshops/The-Data-Visualization-Workshop/master/Datasets/YouTube.csv
+SHA256: 589f9294e1e9b9866cc7dcae2f704f044f71c96d6ab4305006a3f93487e3d474
+
+anage_data.csv
+https://raw.githubusercontent.com/PacktWorkshops/The-Data-Visualization-Workshop/master/Datasets/anage_data.csv
+SHA256: a8966b9ff8cefa93de609634c475bcce1cfe77980af65e55b45a410aa306809d
+
+water_usage.csv
+https://raw.githubusercontent.com/PacktWorkshops/The-Data-Visualization-Workshop/master/Datasets/water_usage.csv
+SHA256: 4a8a496fe693bfea2647559558f93b5b6f7c3ad6a5a1281875eda5bdae2515fc
+
+age_salary_hours.csv
+https://raw.githubusercontent.com/PacktWorkshops/The-Data-Visualization-Workshop/master/Datasets/age_salary_hours.csv
+SHA256: 6bd2a9933a2cbab22f104cc69572ec3617e52f6adf1eff335b5116b93bb2ee91
