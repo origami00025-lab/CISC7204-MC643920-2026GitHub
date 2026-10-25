@@ -1,0 +1,14 @@
+﻿建议主题标题：Module 05 Practice Lab 02 — Dash Dashboard
+
+Task 2.1: title. Task 2.2: region radio items and year dropdown. Task 2.3: two output divisions. Task 2.4: two outputs and two inputs in the callback decorator. Task 2.5: the callback filters region/year and computes monthly means.
+
+请将下列图片插入同一篇实验帖子。Source_Code 展示源代码；后续图片展示实际运行结果。
+
+Dashboard_Initial.png
+The wildfire dashboard uses region radio items and a year dropdown to display monthly mean fire area and monthly mean detected-pixel count for the current selection.
+
+Dashboard_QL_2019.png
+After selecting QL and 2019, the callback recomputes the monthly mean estimated fire area and mean detected-pixel count for that region and year.
+
+Source_Code.png
+The Python source defines the layout, components and callback wiring. The lower pane is the running local app. The dedicated dashboard screenshots show its complete output.

@@ -1,0 +1,14 @@
+﻿建议主题标题：Module 04  Lab 02 — Dash Dashboard
+
+Tasks 1–6: data preparation, app layout, title, description, pie graph and running app. Practice: changed title and font size; stop the server with Ctrl+C.
+
+请将下列图片插入同一篇实验帖子。Source_Code 展示源代码；后续图片展示实际运行结果。
+
+Dashboard_Initial.png
+The running dashboard displays the requested initial layout and computed chart output from the included airline dataset.
+
+Practice_airline_on_time.png
+The practice variant changes the heading to Airline On-time Dashboard with the requested larger font.
+
+Source_Code.png
+The Python source defines the layout, components and callback wiring. The lower pane is the running local app. The dedicated dashboard screenshots show its complete output.

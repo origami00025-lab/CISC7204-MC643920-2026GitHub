@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*.restore-tmp
+/Datasets/world_cities_pop.csv

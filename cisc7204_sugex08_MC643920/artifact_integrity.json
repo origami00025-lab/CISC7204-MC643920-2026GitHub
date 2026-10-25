@@ -1,0 +1,35 @@
+{
+  "notebooks": [
+    {
+      "path": "P1_folder/Jupyter Notebooks/MC643920_Activity8.01.ipynb",
+      "sha256": "85ee959d2ddeef42e5dab807c3f0e25ae169c5e4e3031cb018ab41c623da58a6"
+    },
+    {
+      "path": "P1_folder/Jupyter Notebooks/MC643920_Exercise8.01.ipynb",
+      "sha256": "0b9620a9b84831d1fa8e5d57830a432631c5dbf6024724b51a49f8fc5925b4af"
+    },
+    {
+      "path": "P2_folder/Jupyter Notebooks/MC643920_Activity8.02.ipynb",
+      "sha256": "fa23ba48bcab6f1b098edd0273df281ff5345a599ccd0a5d767acf2f32d54f4e"
+    },
+    {
+      "path": "P2_folder/Jupyter Notebooks/MC643920_Exercise8.02.ipynb",
+      "sha256": "e7bd8cb9744b14b750972b56bd26ff7d361217bbf7d87795a0e725f3c9a54dc4"
+    },
+    {
+      "path": "P2_folder/Jupyter Notebooks/MC643920_Exercise8.03.ipynb",
+      "sha256": "33e54a9ec1c2354974e460d0a5c133ef0deb75643b8e30baa80b0dca542ac709"
+    },
+    {
+      "path": "P2_folder/Jupyter Notebooks/MC643920_Exercise8.04.ipynb",
+      "sha256": "9e9ee9c5c02dd9279cf7f7e1ebac137a6eb7ae1682b9824ed48d660ed968976a"
+    }
+  ],
+  "large_dataset": {
+    "project": "SugEx08",
+    "original_bytes": 164325024,
+    "archive_bytes": 43567537,
+    "sha256": "14d45883d3d2426e50054c8777a7bad2fe68e59a6ddbbdb952c6bb68aafa8636",
+    "full_data_preserved": true
+  }
+}

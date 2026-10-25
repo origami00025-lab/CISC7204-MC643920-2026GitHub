@@ -1,0 +1,44 @@
+{
+  "notebooks": [
+    {
+      "path": "Module01/CISC7204 Assgn02 Module 01 - Lab01 MC643920 LU MENGJIE.ipynb",
+      "sha256": "60c15757f5fa2f4b95dde2f6eecbf9f4f452a1d1288f1e109f36e30745c09480"
+    },
+    {
+      "path": "Module01/CISC7204 Assgn02 Module 01 - Lab02 MC643920 LU MENGJIE.ipynb",
+      "sha256": "578a4200ebc2329a3133578488a7907b2e609bb8798a25dc6a8c6a10dd11f9d5"
+    },
+    {
+      "path": "Module02/CISC7204 Assgn02 Module 02 - Lab01 MC643920 LU MENGJIE.ipynb",
+      "sha256": "9b4bc06c54304f9a5fdbeb05580c2cffb8f879fe43678d570069d7f9996ce855"
+    },
+    {
+      "path": "Module02/CISC7204 Assgn02 Module 02 - Lab02 MC643920 LU MENGJIE.ipynb",
+      "sha256": "aadc747c1f6313f8620563aee6c11dd5385a9594ab494055f025c4fc1b0b9d87"
+    },
+    {
+      "path": "Module02/CISC7204 Assgn02 Module 02 - Lab03 MC643920 LU MENGJIE.ipynb",
+      "sha256": "91c2f7b1dae611a7863a41e1f7c0acec5942ff17cb8adfbcc52a5132c575f7b1"
+    },
+    {
+      "path": "Module03/CISC7204 Assgn02 Module 03 - Lab01 MC643920 LU MENGJIE.ipynb",
+      "sha256": "4cbec7892fbd2f68e16fda2968c61c707aff744334f5b7ed594ace35db16453b"
+    },
+    {
+      "path": "Module03/CISC7204 Assgn02 Module 03 - Lab02 MC643920 LU MENGJIE.ipynb",
+      "sha256": "43a8059952141f161c2d7de1e1bbde254d7bdedd05d088ee94ae87a7834d2d19"
+    },
+    {
+      "path": "Module04/CISC7204 Assgn02 Module 04 - Lab01 MC643920 LU MENGJIE.ipynb",
+      "sha256": "80be953b58590e84375b3789ac64d3ebb23491a6c85cc3ffbd7c7ce1f1b86da1"
+    },
+    {
+      "path": "Module05/Final/CISC7204 Assgn02 Module 05 - FinalProjLab01 MC643920 LU MENGJIE.ipynb",
+      "sha256": "89e01b3e76849599120ebe9f2cec4a3d3a4f29fb8371b56f4a1ecc8cb5a288d6"
+    },
+    {
+      "path": "Module05/Practice/CISC7204 Assgn02 Module 05 - PracticeProjLab01 MC643920 LU MENGJIE.ipynb",
+      "sha256": "20eb129a74220bf1a72a37f007847ca22854a3aaf60ac4f6931276fd6c956cd2"
+    }
+  ]
+}

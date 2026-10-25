@@ -1,0 +1,6 @@
+bokeh==3.9.1
+pandas
+numpy
+ipywidgets==8.1.7
+jupyterlab
+notebook

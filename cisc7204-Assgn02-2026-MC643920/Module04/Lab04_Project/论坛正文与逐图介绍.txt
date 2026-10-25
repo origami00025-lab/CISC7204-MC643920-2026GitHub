@@ -1,0 +1,17 @@
+﻿建议主题标题：Module 04  Lab 04 — Dash Dashboard
+
+Tasks 1–6: read data, layout, five graph components, compute_info, callback wiring and five returned figures. Practice: flight_details.py changes the heading and its font size.
+
+请将下列图片插入同一篇实验帖子。Source_Code 展示源代码；后续图片展示实际运行结果。
+
+Dashboard_2019.png
+Changing the input year to 2019 triggers the callback and updates the displayed monthly summaries.
+
+Dashboard_Initial.png
+The running dashboard displays the requested initial layout and computed chart output from the included airline dataset.
+
+Practice_flight_details.png
+The practice variant uses the Flight Details Statistics heading with font size 35 while retaining the five delay graphs.
+
+Source_Code.png
+The Python source defines the layout, components and callback wiring. The lower pane is the running local app. The dedicated dashboard screenshots show its complete output.

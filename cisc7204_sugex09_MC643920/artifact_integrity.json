@@ -1,0 +1,28 @@
+{
+  "notebooks": [
+    {
+      "path": "P1_folder/Jupyter Notebooks/MC643920_Activity9.01.ipynb",
+      "sha256": "5285e4f703ae2b57fb44f2821514e32cc61c7a22d76320eaa3f2284b18007bfc"
+    },
+    {
+      "path": "P1_folder/Jupyter Notebooks/MC643920_Exercise9.01.ipynb",
+      "sha256": "bee38ab3b267c47e7dd762e948068e64fb73b0d6015a738146e7e9131a8aefbd"
+    },
+    {
+      "path": "P1_folder/Jupyter Notebooks/MC643920_Exercise9.02.ipynb",
+      "sha256": "0b98554de93df7a6353ab87e33901fe3ed142968ac843b12c76798c5c03f0c2b"
+    },
+    {
+      "path": "P2_folder/Jupyter Notebooks/MC643920_Activity9.02.ipynb",
+      "sha256": "3bf93f70910d1961976311a6d155c55ce30d551cc28327e015b466313c1c4757"
+    },
+    {
+      "path": "P2_folder/Jupyter Notebooks/MC643920_Exercise9.03.ipynb",
+      "sha256": "d362c496fbb0b8517871a5284e078561ba19872a021fa8c73a49f489b5acccfd"
+    },
+    {
+      "path": "P2_folder/Jupyter Notebooks/MC643920_Exercise9.04.ipynb",
+      "sha256": "157132e7d0a22d499282af523cb7f7372d34e48b595f93fb3f8513452a7310b2"
+    }
+  ]
+}

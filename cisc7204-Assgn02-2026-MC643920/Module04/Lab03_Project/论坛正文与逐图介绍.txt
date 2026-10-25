@@ -1,0 +1,17 @@
+﻿建议主题标题：Module 04  Lab 03 — Dash Dashboard
+
+Tasks 1–3: read data, layout/input/output and arrival-delay callback. Task 4: the bar_chart.py variant aggregates flights by destination state and reporting airline.
+
+请将下列图片插入同一篇实验帖子。Source_Code 展示源代码；后续图片展示实际运行结果。
+
+Dashboard_2019.png
+Changing the input year to 2019 triggers the callback and updates the displayed monthly summaries.
+
+Dashboard_Initial.png
+The running dashboard displays the requested initial layout and computed chart output from the included airline dataset.
+
+Practice_bar_chart.png
+The practice bar dashboard groups flights by destination state and reporting airline for the selected year.
+
+Source_Code.png
+The Python source defines the layout, components and callback wiring. The lower pane is the running local app. The dedicated dashboard screenshots show its complete output.

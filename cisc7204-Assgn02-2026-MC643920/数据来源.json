@@ -1,0 +1,80 @@
+[
+  {
+    "file": "Canada.csv",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Canada.csv",
+    "bytes": 34893,
+    "ok": true
+  },
+  {
+    "file": "Canada.xlsx",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Canada.xlsx",
+    "bytes": 390524,
+    "ok": true
+  },
+  {
+    "file": "Historical_Wildfires.csv",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Historical_Wildfires.csv",
+    "bytes": 2048982,
+    "ok": true
+  },
+  {
+    "file": "Police_Department_Incidents_-_Previous_Year__2016_.csv",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Police_Department_Incidents_-_Previous_Year__2016_.csv",
+    "bytes": 32629837,
+    "ok": true
+  },
+  {
+    "file": "airline_data.csv",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/airline_data.csv",
+    "bytes": 9827502,
+    "ok": true
+  },
+  {
+    "file": "alice_novel.txt",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/alice_novel.txt",
+    "bytes": 145192,
+    "ok": true
+  },
+  {
+    "file": "us-states.json",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/us-states.json",
+    "bytes": 87689,
+    "ok": true
+  },
+  {
+    "file": "world_countries.json",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/world_countries.json",
+    "bytes": 252527,
+    "ok": true
+  },
+  {
+    "file": "IDSNlogo.png",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/labs/Module%202/images/IDSNlogo.png",
+    "bytes": 78776,
+    "ok": true
+  },
+  {
+    "file": "IDSNlogo.png",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/labs/Module%203/images/IDSNlogo.png",
+    "bytes": 78776,
+    "ok": true
+  },
+  {
+    "file": "alice_mask.png",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/labs/Module%204/images/alice_mask.png",
+    "bytes": 7339,
+    "ok": true
+  },
+  {
+    "file": "logo.png",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/labs/Module%204/logo.png",
+    "bytes": 78776,
+    "ok": true
+  },
+  {
+    "file": "automobile-sales.csv",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/d51iMGfp_t0QpO30Lym-dw/automobile-sales.csv",
+    "bytes": 196006,
+    "ok": true
+  }
+]

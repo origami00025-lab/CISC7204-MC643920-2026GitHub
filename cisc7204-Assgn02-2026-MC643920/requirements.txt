@@ -1,0 +1,14 @@
+﻿numpy>=1.26,<3
+pandas>=2.2,<4
+matplotlib>=3.8,<4
+seaborn>=0.13,<0.14
+openpyxl>=3.1
+plotly>=5.18,<7
+dash==3.4.0
+folium==0.20.0
+wordcloud>=1.9.4
+pywaffle==1.2.0
+nbformat>=5.10
+nbclient>=0.10
+nbconvert>=7.16
+ipykernel>=6
